@@ -20,4 +20,4 @@ This project was developed in a Linux environment and will likely only function 
 ## The following two sources were used in this project:
 - WANG, K. C. Systems Programming in UNIX/Linux. SPRINGER, 2019. 
 - Poirier, Dave. The Second Extended File System, https://www.nongnu.org/ext2-doc/ext2.html. 
-## Colaborators: None
+## Collaborators: None
